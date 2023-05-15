@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const crypto = require("node:crypto");
+const crypto = require("crypto");
 require("dotenv").config()
 
 const app = express();
